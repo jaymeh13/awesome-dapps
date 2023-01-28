@@ -72,6 +72,7 @@
 - [EatTheBlocks Pro](http://pro.eattheblocks.com)
 - [Ethereum Dapps In Motion](https://www.manning.com/livevideo/ethereum-dapps-in-motion)
 - [Blockchain in Action](https://www.manning.com/books/blockchain-in-action)
+- [Launchcaster](https://www.launchcaster.xyz/) - share and discover new Web3 projects
 
 ### Shopping
 
